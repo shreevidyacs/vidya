@@ -1,0 +1,4 @@
+transformers>=4.40,<5
+torch>=2.2
+sentencepiece>=0.2
+ddgs>=9.0
